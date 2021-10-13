@@ -1,7 +1,7 @@
 # Novidades da versão
 ## Flit web manager 4.0.9
  
-## 🚀 Novo
+### 🚀 Novo
  
 - `Cadastro de (Usuários/Perímetros)` - Agora podemos vincular até 5 perímetros diferentes no cadastro de usuários, desta forma o usuário não fica mais limitado a marcar apenas em um perímetro fixo.
  
@@ -11,7 +11,7 @@
  
 - `Exportação Alterdata` - Agora podemos informar em parâmetros gerais o código do evento de **horas noturnas totais**, e exportar o mesmo na tela de exportações.
  
-## 🌟 Melhorias
+### 🌟 Melhorias
 - `Cadastro de usuários` - Os códigos externos do domínio agora são validados se são únicos por empresa e não por conta.
  
 - `Cadastro de usuários` - Não permitir excluir usuários que já realizaram marcações em qualquer um dos apps.
@@ -22,7 +22,7 @@
  
 - `Cadastro de dispositivos` - Melhorias de UI e UX, a fonte do PIN foi melhorada para não confundir as letras minúsculas com maiúsculas, e também agora o CPF/CNPJ da empresa fica perto do PIN no modal de detalhes do dispositivo para facilitar a inserção de dados no formulário de login.
  
-## 🔧 Correções
+### 🔧 Correções
 - `Folha de ponto` - Períodos trabalhados consideravam o fuso do local do navegador, agora assim como no ajuste de jornadas consideram o fuso do período que está no servidor para exibir os horários.
  
 - `Folha de ponto` - Antes eram geradas duas páginas de folha de ponto quando o colaborador fazia aniversário naquele mês, agora é gerada apenas uma como esperado.
